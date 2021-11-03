@@ -1,0 +1,29 @@
+Serenity.project.name = BaseWeb
+
+# Root package for any JUnit acceptance tests
+#serenity.test.root=net.serenitybdd.tutorials.features
+
+# Customise your riequirements hierarchy
+#serenity.requirement.types=feature, story
+
+# Run the tests without calling webdriver - useful to check your JUnit wiring
+ #serenity.dry.run=true
+
+# Customise browser size
+#serenity.browser.height = 1200
+#serenity.browser.width = 1200
+
+webdriver.driver= chrome
+webdriver.chrome.driver=chromedriver.exe
+baseUrl = https://valid.com/es/
+#webdriver.timeouts.implicitlywait = 50000
+webdriver.wait.for.timeout = 10000
+chrome.preferences.profile.default_content_settings.popupsy=0
+####### iOS CAPS ######
+#appium.automationName = XCUITest
+#appium.platformName=IOS
+#appium.platformVersion = 10.3
+#appium.deviceName  = iPhone 7
+#appium.app =  /Users/vikramanna/Documents/vikram/AppiumSerenityPOC/WordPress.app
+####### Android CAPS ######
+

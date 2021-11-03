@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="WhenLoggingOn" project="serenity-junit-starter" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="serenityswag.authentication.WhenLoggingOn" time="93.968">
+    <testcase name="usersCanLogOnViaTheHomePage" classname="serenityswag.authentication.WhenLoggingOn" time="93.968">
+      <error>org.openqa.selenium.WebDriverException: The following error occurred: Reached error page: about:neterror?e=netTimeout&amp;u=https%3A//www.saucedemo.com/&amp;c=UTF-8&amp;d=El%20servidor%20www.saucedemo.com%20est%C3%A1%20tardando%20demasiado%20en%20responder.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DEV045', ip: '193.15.1.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 78.13.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210804193512, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 5400, moz:profile: C:\Users\oswaldo.borrero\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a5c0a460-dad2-4bfc-9374-4bf610ab3370
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DEV045', ip: '193.15.1.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown&#13;
+	at serenityswag.authentication.LoginActions.as(LoginActions.java:9)&#13;
+	at serenityswag.authentication.WhenLoggingOn.usersCanLogOnViaTheHomePage(WhenLoggingOn.java:29)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

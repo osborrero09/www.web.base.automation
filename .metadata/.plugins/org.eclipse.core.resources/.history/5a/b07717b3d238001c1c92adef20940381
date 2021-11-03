@@ -1,0 +1,5 @@
+ackage org.Valid.qa.automation.taller.tasks;
+
+public @interface CucumberOptions {
+
+}
