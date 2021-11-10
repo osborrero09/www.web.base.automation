@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\oswaldo.borrero\OneDrive - Valid Solucoes e Servicos em Meios de Pagamentos\Documents\PROYECTOS AUTOMATIZADOS"/>
 			<item value="C:\Users\oswaldo.borrero\eclipse-workspace\web-automation-base"/>
 			<item value="C:\Users\oswaldo.borrero\eclipse-workspace\web-automation-base\src\test\java"/>
 			<item value="C:\Users\oswaldo.borrero\OneDrive - Valid Solucoes e Servicos em Meios de Pagamentos\Documents\PROYECTOS AUTOMATIZADOS\serenity-junit-starter-master\pom.xml"/>
@@ -28,12 +29,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.automation.takami.valid"/>
 			<item value="www.takami.com.Takami"/>
 		</list>
 		<list key="groupId">
+			<item value="com.automation.takami"/>
 			<item value="www.takami.com"/>
 		</list>
 		<list key="artifactId">
+			<item value="valid"/>
 			<item value="Takami"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -89,6 +93,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\oswaldo.borrero\Downloads\PRUEBA -VALID"/>
 			<item value="C:\Users\oswaldo.borrero\Downloads\EJERCICIO\serenity-web-training"/>
 			<item value="C:\Users\oswaldo.borrero\eclipse-workspace\web-automation-base"/>
 		</list>
