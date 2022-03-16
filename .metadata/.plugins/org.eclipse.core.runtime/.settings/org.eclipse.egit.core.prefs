@@ -1,3 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\oswaldo.borrero\\Downloads\\EJERCICIO\\.git;C\:\\Users\\oswaldo.borrero\\eclipse-workspace\\web-automation-base\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\oswaldo.borrero\\Downloads\\EJERCICIO\\.git;web-automation-base\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\oswaldo.borrero\\eclipse-workspace\\takami-test-automation\\.git;C\:\\Users\\oswaldo.borrero\\Downloads\\EJERCICIO\\.git;C\:\\Users\\oswaldo.borrero\\eclipse-workspace\\.git;C\:\\Users\\oswaldo.borrero\\eclipse-workspace\\web-automation-base\\.git;
+GitRepositoriesView.GitDirectories.relative=takami-test-automation\\.git;C\:\\Users\\oswaldo.borrero\\Downloads\\EJERCICIO\\.git;.git;web-automation-base\\.git;
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=C\:\\Users\\oswaldo.borrero\\eclipse-workspace\\takami-test-automation\\src
 eclipse.preferences.version=1
